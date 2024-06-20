@@ -34,3 +34,4 @@ cd distributed-kv-store
 mix deps.get
 ``
 
+# distributed_key_value_in_elixir
